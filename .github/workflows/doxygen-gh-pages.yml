@@ -3,7 +3,7 @@ name: Doxygen GitHub Pages Deploy Action
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
@@ -12,5 +12,5 @@ jobs:
       - uses: DenverCoder1/doxygen-github-pages-action@v1.3.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           target_folder: makeblock_libraries_docs
