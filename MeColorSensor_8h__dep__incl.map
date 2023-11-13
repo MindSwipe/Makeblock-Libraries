@@ -1,0 +1,9 @@
+<map id="src/MeColorSensor.h" name="src/MeColorSensor.h">
+<area shape="rect" id="node1" title="Header for MeColorSensor.cpp module." alt="" coords="397,5,551,32"/>
+<area shape="rect" id="node2" href="$MeAuriga_8h.html" title="Driver for MeAuriga board." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$MeColorSensor_8cpp.html" title="Driver for MeColorSensor module." alt="" coords="148,80,317,107"/>
+<area shape="rect" id="node4" href="$MeMCore_8h.html" title="Driver for mCore Board." alt="" coords="341,80,460,107"/>
+<area shape="rect" id="node5" href="$MeMegaPi_8h.html" title="Driver for MegaPi board." alt="" coords="485,80,610,107"/>
+<area shape="rect" id="node6" href="$MeMegaPiPro_8h.html" title="Driver for MegaPiPro board." alt="" coords="634,80,781,107"/>
+<area shape="rect" id="node7" href="$MeOrion_8h.html" title="Driver for MeOrion board." alt="" coords="805,80,917,107"/>
+</map>

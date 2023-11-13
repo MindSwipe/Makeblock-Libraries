@@ -1,0 +1,11 @@
+<map id="src/MeInfraredReceiver.h" name="src/MeInfraredReceiver.h">
+<area shape="rect" id="node1" title="Header for for MeInfraredReceiver.cpp module." alt="" coords="583,5,767,32"/>
+<area shape="rect" id="node2" href="$MeAuriga_8h.html" title="Driver for MeAuriga board." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$MeBaseBoard_8h.html" title="Driver for BaseBoard." alt="" coords="149,80,295,107"/>
+<area shape="rect" id="node4" href="$MeInfraredReceiver_8cpp.html" title="Driver for Me Infrared Receiver device." alt="" coords="320,80,519,107"/>
+<area shape="rect" id="node5" href="$MeMCore_8h.html" title="Driver for mCore Board." alt="" coords="543,80,661,107"/>
+<area shape="rect" id="node6" href="$MeMegaPi_8h.html" title="Driver for MegaPi board." alt="" coords="686,80,811,107"/>
+<area shape="rect" id="node7" href="$MeMegaPiPro_8h.html" title="Driver for MegaPiPro board." alt="" coords="835,80,982,107"/>
+<area shape="rect" id="node8" href="$MeOrion_8h.html" title="Driver for MeOrion board." alt="" coords="1006,80,1118,107"/>
+<area shape="rect" id="node9" href="$MeShield_8h.html" title="Driver for Shield Board." alt="" coords="1142,80,1259,107"/>
+</map>

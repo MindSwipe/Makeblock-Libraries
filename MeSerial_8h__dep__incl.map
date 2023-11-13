@@ -1,0 +1,27 @@
+<map id="src/MeSerial.h" name="src/MeSerial.h">
+<area shape="rect" id="node1" title="Header for for MeSerial.cpp module." alt="" coords="1291,5,1405,32"/>
+<area shape="rect" id="node2" href="$MeAuriga_8h.html" title="Driver for MeAuriga board." alt="" coords="1491,155,1610,181"/>
+<area shape="rect" id="node3" href="$MeBaseBoard_8h.html" title="Driver for BaseBoard." alt="" coords="184,155,331,181"/>
+<area shape="rect" id="node4" href="$MeBluetooth_8h.html" title="Header for MeBluetooth.cpp module." alt="" coords="530,80,670,107"/>
+<area shape="rect" id="node6" href="$MeMCore_8h.html" title="Driver for mCore Board." alt="" coords="1177,155,1295,181"/>
+<area shape="rect" id="node7" href="$MeMegaPi_8h.html" title="Driver for MegaPi board." alt="" coords="853,155,979,181"/>
+<area shape="rect" id="node8" href="$MeMegaPiPro_8h.html" title="Driver for MegaPiPro board." alt="" coords="1320,155,1467,181"/>
+<area shape="rect" id="node9" href="$MeOrion_8h.html" title="Driver for MeOrion board." alt="" coords="355,155,467,181"/>
+<area shape="rect" id="node10" href="$MeShield_8h.html" title="Driver for Shield Board." alt="" coords="712,155,829,181"/>
+<area shape="rect" id="node11" href="$MeInfraredReceiver_8h.html" title="Header for for MeInfraredReceiver.cpp module." alt="" coords="695,80,879,107"/>
+<area shape="rect" id="node13" href="$MePm25Sensor_8cpp.html" title="Driver for Me PM2.5 sensor device." alt="" coords="2109,155,2281,181"/>
+<area shape="rect" id="node14" href="$MePm25Sensor_8h.html" title="Header for for MePm25Sensor.cpp module." alt="" coords="2003,80,2160,107"/>
+<area shape="rect" id="node15" href="$MePS2_8cpp.html" title="Driver for MePS2 device." alt="" coords="1775,155,1891,181"/>
+<area shape="rect" id="node16" href="$MePS2_8h.html" title="Header for MePS2.cpp module." alt="" coords="1341,80,1443,107"/>
+<area shape="rect" id="node17" href="$MeSerial_8cpp.html" title="this file is a drive for serial" alt="" coords="1697,80,1826,107"/>
+<area shape="rect" id="node18" href="$MeSmartServo_8cpp.html" title="Driver for Me Smart Servo device." alt="" coords="1916,155,2084,181"/>
+<area shape="rect" id="node19" href="$MeSmartServo_8h.html" title="Header for for MeSmartServo.cpp module." alt="" coords="1467,80,1621,107"/>
+<area shape="rect" id="node20" href="$MeUSBHost_8h.html" title="Header for MeUSBHost.cpp module." alt="" coords="954,80,1089,107"/>
+<area shape="rect" id="node22" href="$MeVoice_8h.html" title="Header for for MeVoice.cpp module." alt="" coords="2273,80,2385,107"/>
+<area shape="rect" id="node24" href="$MeWifi_8cpp.html" title="Driver for Me wifi device." alt="" coords="1633,155,1751,181"/>
+<area shape="rect" id="node25" href="$MeWifi_8h.html" title="Header for for MeWifi.cpp module." alt="" coords="1113,80,1215,107"/>
+<area shape="rect" id="node5" href="$MeBluetooth_8cpp.html" title="Driver for Me Bluetooth device." alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node12" href="$MeInfraredReceiver_8cpp.html" title="Driver for Me Infrared Receiver device." alt="" coords="490,155,689,181"/>
+<area shape="rect" id="node21" href="$MeUSBHost_8cpp.html" title="Driver for Me USB Host module." alt="" coords="1003,155,1152,181"/>
+<area shape="rect" id="node23" href="$MeVoice_8cpp.html" title="Driver for Me voice device." alt="" coords="2305,155,2431,181"/>
+</map>

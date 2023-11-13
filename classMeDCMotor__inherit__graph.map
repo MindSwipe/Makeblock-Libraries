@@ -1,0 +1,5 @@
+<map id="MeDCMotor" name="MeDCMotor">
+<area shape="rect" id="node1" title="Driver for Me DC motor device." alt="" coords="13,80,111,107"/>
+<area shape="rect" id="node3" href="$classMBotDCMotor.html" title=" " alt="" coords="5,155,119,181"/>
+<area shape="rect" id="node2" href="$classMePort.html" title="Port Mapping for RJ25." alt="" coords="28,5,96,32"/>
+</map>

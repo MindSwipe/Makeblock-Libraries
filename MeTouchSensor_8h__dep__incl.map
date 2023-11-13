@@ -1,0 +1,11 @@
+<map id="src/MeTouchSensor.h" name="src/MeTouchSensor.h">
+<area shape="rect" id="node1" title="Header for for MeTouchSensor.cpp module." alt="" coords="527,5,685,32"/>
+<area shape="rect" id="node2" href="$MeAuriga_8h.html" title="Driver for MeAuriga board." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$MeBaseBoard_8h.html" title="Driver for BaseBoard." alt="" coords="149,80,295,107"/>
+<area shape="rect" id="node4" href="$MeMCore_8h.html" title="Driver for mCore Board." alt="" coords="320,80,439,107"/>
+<area shape="rect" id="node5" href="$MeMegaPi_8h.html" title="Driver for MegaPi board." alt="" coords="463,80,589,107"/>
+<area shape="rect" id="node6" href="$MeMegaPiPro_8h.html" title="Driver for MegaPiPro board." alt="" coords="613,80,759,107"/>
+<area shape="rect" id="node7" href="$MeOrion_8h.html" title="Driver for MeOrion board." alt="" coords="783,80,895,107"/>
+<area shape="rect" id="node8" href="$MeShield_8h.html" title="Driver for Shield Board." alt="" coords="919,80,1037,107"/>
+<area shape="rect" id="node9" href="$MeTouchSensor_8cpp.html" title="Driver for Me touch sensor device." alt="" coords="1061,80,1233,107"/>
+</map>

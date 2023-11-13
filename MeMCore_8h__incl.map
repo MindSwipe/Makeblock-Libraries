@@ -1,0 +1,52 @@
+<map id="src/MeMCore.h" name="src/MeMCore.h">
+<area shape="rect" id="node1" title="Driver for mCore Board." alt="" coords="2907,5,3026,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="2771,453,2855,480"/>
+<area shape="rect" id="node3" href="$MeConfig_8h_source.html" title=" " alt="" coords="3581,304,3675,331"/>
+<area shape="rect" id="node10" href="$Me7SegmentDisplay_8h.html" title="Header file for Me7SegmentDisplay.cpp." alt="" coords="2015,155,2182,181"/>
+<area shape="rect" id="node15" href="$MeUltrasonicSensor_8h.html" title="Header for for MeUltrasonicSensor.cpp module." alt="" coords="1641,155,1804,181"/>
+<area shape="rect" id="node16" href="$MeMbotDCMotor_8h.html" title="Driver for Mbot DC Motor." alt="" coords="1990,80,2133,107"/>
+<area shape="rect" id="node18" href="$MeRGBLed_8h.html" title="Header for MeRGBLed.cpp module." alt="" coords="2206,155,2311,181"/>
+<area shape="rect" id="node19" href="$Me4Button_8h.html" title="Header for Me4Button.cpp module." alt="" coords="2335,155,2441,181"/>
+<area shape="rect" id="node20" href="$MePotentiometer_8h.html" title="Header for MePotentiometer.cpp." alt="" coords="144,155,291,181"/>
+<area shape="rect" id="node21" href="$MeJoystick_8h.html" title="Header for MeJoystick.cpp module." alt="" coords="315,155,421,181"/>
+<area shape="rect" id="node22" href="$MePIRMotionSensor_8h.html" title="Header for MePIRMotionSensor.cpp." alt="" coords="496,155,659,181"/>
+<area shape="rect" id="node23" href="$MeShutter_8h.html" title="Header for MeShutter.cpp module." alt="" coords="734,155,834,181"/>
+<area shape="rect" id="node24" href="$MeLineFollower_8h.html" title="Header for for MeLineFollower.cpp module." alt="" coords="858,155,993,181"/>
+<area shape="rect" id="node25" href="$MeSoundSensor_8h.html" title="Header for for MeSoundSensor.cpp module." alt="" coords="1069,155,1206,181"/>
+<area shape="rect" id="node26" href="$MeLimitSwitch_8h.html" title="Header for MeLimitSwitch.cpp." alt="" coords="1231,155,1361,181"/>
+<area shape="rect" id="node27" href="$MeLightSensor_8h.html" title="Header file for Me&#45;Light Sensor.cpp." alt="" coords="1386,155,1515,181"/>
+<area shape="rect" id="node28" href="$MeSerial_8h.html" title="Header for for MeSerial.cpp module." alt="" coords="2921,155,3012,181"/>
+<area shape="rect" id="node29" href="$MeBluetooth_8h.html" title="Header for MeBluetooth.cpp module." alt="" coords="2623,80,2740,107"/>
+<area shape="rect" id="node30" href="$MeWifi_8h.html" title="Header for for MeWifi.cpp module." alt="" coords="1835,80,1914,107"/>
+<area shape="rect" id="node31" href="$MeTemperature_8h.html" title="Header for MeTemperature.cpp module." alt="" coords="5025,80,5161,107"/>
+<area shape="rect" id="node33" href="$MeGyro_8h.html" title="Header for MeGyro.cpp module." alt="" coords="4164,155,4249,181"/>
+<area shape="rect" id="node34" href="$MeInfraredReceiver_8h.html" title="Header for for MeInfraredReceiver.cpp module." alt="" coords="3343,80,3505,107"/>
+<area shape="rect" id="node35" href="$MeCompass_8h.html" title="Header for MeCompass.cpp module." alt="" coords="3711,155,3825,181"/>
+<area shape="rect" id="node36" href="$MeUSBHost_8h.html" title="Header for MeUSBHost.cpp module." alt="" coords="3209,80,3319,107"/>
+<area shape="rect" id="node37" href="$MeTouchSensor_8h.html" title="Header for for MeTouchSensor.cpp module." alt="" coords="4005,155,4139,181"/>
+<area shape="rect" id="node38" href="$MeStepper_8h.html" title="Header for MeStepper.cpp module." alt="" coords="5731,155,5834,181"/>
+<area shape="rect" id="node41" href="$MeEncoderMotor_8h.html" title="Header for MeEncoderMotor.cpp module." alt="" coords="3189,155,3331,181"/>
+<area shape="rect" id="node42" href="$MeEncoderNew_8h.html" title="Header for MeEncoderNew.cpp module." alt="" coords="5369,155,5503,181"/>
+<area shape="rect" id="node43" href="$MeIR_8h.html" title="Header for MeIR.cpp module." alt="" coords="4273,155,4340,181"/>
+<area shape="rect" id="node44" href="$MeLEDMatrix_8h.html" title="Header for MeLEDMatrix.cpp module." alt="" coords="2786,80,2907,107"/>
+<area shape="rect" id="node45" href="$MeBuzzer_8h.html" title="Header for MeBuzzer.cpp module." alt="" coords="4365,155,4462,181"/>
+<area shape="rect" id="node46" href="$MeHumitureSensor_8h.html" title="Header for for MeHumitureSensor.cpp module." alt="" coords="4486,155,4645,181"/>
+<area shape="rect" id="node47" href="$MeFlameSensor_8h.html" title="Header for MeFlameSensor.cpp module." alt="" coords="4669,155,4808,181"/>
+<area shape="rect" id="node48" href="$MeGasSensor_8h.html" title="Header for MeGasSensor.cpp module." alt="" coords="4832,155,4955,181"/>
+<area shape="rect" id="node49" href="$MePS2_8h.html" title="Header for MePS2.cpp module." alt="" coords="3533,80,3611,107"/>
+<area shape="rect" id="node50" href="$MeColorSensor_8h.html" title="Header for MeColorSensor.cpp module." alt="" coords="3849,155,3980,181"/>
+<area shape="rect" id="node4" href="$Servo_8h_source.html" title=" " alt="" coords="5926,379,6039,405"/>
+<area shape="rect" id="node6" href="$Wire_8h_source.html" title=" " alt="" coords="6064,379,6171,405"/>
+<area shape="rect" id="node7" href="$EEPROM_8h_source.html" title=" " alt="" coords="6195,379,6325,405"/>
+<area shape="rect" id="node8" href="$SoftwareSerial_8h_source.html" title=" " alt="" coords="5731,379,5901,405"/>
+<area shape="rect" id="node9" href="$SPI_8h_source.html" title=" " alt="" coords="3521,379,3617,405"/>
+<area shape="rect" id="node5" title=" " alt="" coords="6006,453,6093,480"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2586,304,2657,331"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3029,229,3112,256"/>
+<area shape="rect" id="node13" href="$MePort_8h.html" title="Header for MePort.cpp module." alt="" coords="2773,229,2853,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5109,304,5179,331"/>
+<area shape="rect" id="node17" href="$MeDCMotor_8h.html" title="Header for MeDCMotor.cpp module." alt="" coords="1829,155,1939,181"/>
+<area shape="rect" id="node32" href="$MeOneWire_8h.html" title="Header for MeOneWire.cpp module." alt="" coords="5182,155,5293,181"/>
+<area shape="rect" id="node39" title=" " alt="" coords="5731,229,5834,256"/>
+<area shape="rect" id="node40" title=" " alt="" coords="5859,229,5933,256"/>
+</map>

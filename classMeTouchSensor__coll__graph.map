@@ -1,0 +1,4 @@
+<map id="MeTouchSensor" name="MeTouchSensor">
+<area shape="rect" id="node1" title="Driver for Me touch sensor device." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node2" href="$classMePort.html" title="Port Mapping for RJ25." alt="" coords="33,5,101,32"/>
+</map>

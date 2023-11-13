@@ -1,0 +1,7 @@
+<map id="src/MeEncoderOnBoard.h" name="src/MeEncoderOnBoard.h">
+<area shape="rect" id="node1" title="Header for MeEncoderOnBoard.cpp module." alt="" coords="248,5,433,32"/>
+<area shape="rect" id="node2" href="$MeAuriga_8h.html" title="Driver for MeAuriga board." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$MeEncoderOnBoard_8cpp.html" title="Driver for Encoder module on MeAuriga and MeMegaPi." alt="" coords="147,80,347,107"/>
+<area shape="rect" id="node4" href="$MeMegaPi_8h.html" title="Driver for MegaPi board." alt="" coords="371,80,497,107"/>
+<area shape="rect" id="node5" href="$MeMegaPiPro_8h.html" title="Driver for MegaPiPro board." alt="" coords="521,80,667,107"/>
+</map>
